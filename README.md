@@ -382,29 +382,3 @@ The solution files are intentionally not included during the workshop.
 
 Students are expected to complete the tasks independently or with their teams.
 Reference solutions will be released after the practical session.
-
-
-ML_Workshop_Customer360/
-│
-├── README.md
-├── requirements.txt
-├── check_environment.py
-│
-├── data/
-│   └── customer_360_ml_workshop.csv
-│
-├── src/
-│   └── workshop_tasks.py
-│
-├── notebooks/
-│
-├── outputs/
-│
-└── solutions/                 ← add AFTER workshop
-    ├── README.md
-    ├── common.py
-    ├── 01_eda.py
-    ├── 02_classification.py
-    ├── 03_regression.py
-    ├── 04_unsupervised.py
-    └── 05_customer360_integration.py
